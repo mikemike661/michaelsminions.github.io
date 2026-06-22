@@ -1,5 +1,5 @@
 ---
-layout: defeault
+layout: default
 title: Pibble
 ---
 
@@ -12,4 +12,7 @@ title: Pibble
 ## Breyen
 
 ### Gay
+
+#### These characters have been chosen for their unique skillset
+
 
